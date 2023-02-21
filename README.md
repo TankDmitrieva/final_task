@@ -23,9 +23,11 @@
 
  [Баг-репорты, тест-кейсы, описание ](https://docs.google.com/spreadsheets/d/1-8mJk1rJ6ntxBOXh-svXChoCtt5OKAmNfFzgOXqD91c/edit?usp=sharing)
 
+
 ### Тесты настроены на запуск через Run! 
 
 
  Папка Tests: Тест-Кейсы
+ 
  conftest - исходные статические данные   
  settings - учетные данные, используемые в процессе теста
